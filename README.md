@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">Olá! Eu sou o Enzo Parra 👋</h1>
 
-<!--
-**EnzoParraVesguerber-ml/EnzoParraVesguerber-ml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💡 Apaixonado por Ciência de Dados e Engenharia de Machine Learning  
+🎓 Estudante de Engenharia da Computação | Foco em Machine Learning & Deep Learning  
+🚀 Explorando dados, criando modelos inteligentes e compartilhando conhecimento  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre Mim
+- 🔭 Atualmente estudando **Deep Learning e Deploy de Modelos**  
+- 🎯 Buscando estágio em **Ciência de Dados/Machine Learning**  
+- 💻 Tenho experiência com **Python, Numpy, Pandas, Scikit-Learn, SQL e MongoDB**  
+- 📚 Estudando **TensorFlow, PyTorch e AWS**  
+
+---
+
+### 📈 Estatísticas do GitHub  
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enzoparra&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoparra&layout=compact&theme=tokyonight" />
+</div>
+
+---
+
+### 🛠️ Tecnologias e Ferramentas  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+---
+
+### 📚 Últimos Projetos  
+🔹 
+
+🛠️ **Mais projetos no meu repositório → [GitHub](https://github.com/EnzoParraVesguerber-ml)**  
+
+---
+
+### 🌍 Onde me encontrar?  
+📩 **Email:** enzoparra@email.com  
+💼 **LinkedIn:** [linkedin.com/in/enzoparra](https://www.linkedin.com/in/enzoparrav/)  
+🌎 **Portfólio (futuro)**: _Em construção_  
+
+---
+
+👨‍💻 *"A persistencia e o aprendizado contínuo são as chaves para se tornar um ótimo engenheiro de ML!"* 🚀  
