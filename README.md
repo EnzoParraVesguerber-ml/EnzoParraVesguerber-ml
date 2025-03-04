@@ -11,7 +11,7 @@
 ### 🚀 Sobre Mim
 - 🔭 Atualmente estudando **Deep Learning e Deploy de Modelos**  
 - 🎯 Buscando estágio em **Ciência de Dados/Machine Learning**  
-- 💻 Tenho experiência com **Python, Numpy, Pandas, Scikit-Learn, SQL e MongoDB**  
+- 💻 Tenho experiência com **Python, NumPy, Pandas, Scikit-Learn, SQL e MongoDB**  
 - 📚 Estudando **TensorFlow, PyTorch e AWS**  
 
 ---
@@ -27,6 +27,7 @@
 ### 🛠️ Tecnologias e Ferramentas  
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -39,17 +40,25 @@
 ---
 
 ### 📚 Últimos Projetos  
-🔹 
+🔹   
 
 🛠️ **Mais projetos no meu repositório → [GitHub](https://github.com/EnzoParraVesguerber-ml)**  
 
 ---
 
+### 📌 Próximos Passos  
+📌 Aprender **MLOps e Deploy de Modelos**  
+📌 Criar um pipeline de dados com Apache Airflow  
+📌 Aprimorar conhecimentos em **Cloud Computing (AWS/GCP)**  
+📌 Participar de competições no Kaggle  
+
+---
+
 ### 🌍 Onde me encontrar?  
-📩 **Email:** enzoparra@email.com  
+📩 **Email:** ez.parrav@email.com  
 💼 **LinkedIn:** [linkedin.com/in/enzoparra](https://www.linkedin.com/in/enzoparrav/)  
 🌎 **Portfólio (futuro)**: _Em construção_  
 
 ---
 
-👨‍💻 *"A persistencia e o aprendizado contínuo são as chaves para se tornar um ótimo engenheiro de ML!"* 🚀  
+👨‍💻 *"A persistência e o aprendizado contínuo são as chaves para se tornar um ótimo engenheiro de ML!"* 🚀  
