@@ -57,7 +57,7 @@
 ---
 
 ### 🌍 Onde me encontrar?  
-📩 **Email:** ez.parrav@email.com  
+📩 **Email:** ez.parrav@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/enzoparra](https://www.linkedin.com/in/enzoparrav/)  
 🌎 **Portfólio (futuro)**: _Em construção_  
 
